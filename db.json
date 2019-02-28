@@ -2,6 +2,38 @@
   "customers": [
     {"id":"5Le7i8k:CXCxxDsD8jwuqw","name":"John Doe","first_name":"John","last_name":"Doe","email":"john@gmail.com","phone":"919.555.5555","external_id_1":"123","external_id_2":"","street1":"123 fake st","street2":"","city":"Raleigh","state":"NC","postal_code":"27603","partner":"7GkrkISYkI1nkuODNuJDkg","subscriptions":[],"orders":[]}
   ],
+  "create": [
+    {"id": "rqauxNcUlCHr7ic:G22ykQ",   
+     "customer": "5Le7i8k:CXCxxDsD8jwuqw",   
+     "campaign": "qxF:fSaOkVHXEo9YOfX6sw",   
+     "status": "active",   
+     "subtotal": "15.00",   
+     "promocode": "",   
+     "filters": [     {       
+         "sku": "84858.01100200",       
+         "length": 10,       
+         "width": 20,       
+         "thickness": 1,       
+         "description": "10x20x1 LiteAllergen",       
+         "merv": 8,       
+         "actual_length": 9.75,       
+         "actual_width": 19.75,       
+         "actual_thickness": 0.75,
+         "quantity": 5     },
+       {       
+         "sku": "85156.01100100", 
+         "length": 10,
+         "width": 10,
+         "thickness": 1,
+         "description": "10x10x1 MicroAllergen",
+         "merv": 10,
+         "actual_length": 9.75,
+         "actual_width": 9.75,
+         "actual_thickness": 0.75,
+         "quantity": 6
+       }
+     ]
+  ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }
