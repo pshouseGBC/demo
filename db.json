@@ -1,6 +1,27 @@
 {
   "customers": [
-    {"id":"5Le7i8k:CXCxxDsD8jwuqw","name":"John Doe","first_name":"John","last_name":"Doe","email":"john@gmail.com","phone":"919.555.5555","external_id_1":"123","external_id_2":"","street1":"123 fake st","street2":"","city":"Raleigh","state":"NC","postal_code":"27603","partner":"7GkrkISYkI1nkuODNuJDkg","subscriptions":[],"orders":[]}
+    {
+   "id":"5Le7i8k:CXCxxDsD8jwuqw",
+   "name":"John Doe",
+   "first_name":"John",
+   "last_name":"Doe",
+   "email":"john@gmail.com",
+   "phone":"919.555.5555",
+   "external_id_1":"123",
+   "external_id_2":"",
+   "street1":"123 fake st",
+   "street2":"",
+   "city":"Raleigh",
+   "state":"NC",
+   "postal_code":"27603",
+   "partner":"7GkrkISYkI1nkuODNuJDkg",
+   "subscriptions":[
+
+   ],
+   "orders":[
+
+   ]
+}
   ],
   "create": [
     {"id": "rqauxNcUlCHr7ic:G22ykQ",   
